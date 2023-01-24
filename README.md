@@ -23,9 +23,9 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
+```
 Developed by:CHANDRU M
 RegisterNumber: 22009010
-'''
 import numpy as np
 def QR_Decomposition(A):
     n,m = A.shape
@@ -54,10 +54,9 @@ a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
 
-## Output
-```
 
-```
+## Output
+
 ![Screenshot_20230124_095051](https://user-images.githubusercontent.com/118644502/214348808-2265feac-0cfa-4f08-9836-ecc7a0617595.png)
 
 ## Result
